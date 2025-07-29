@@ -2,7 +2,7 @@
 
 This is a Windows batch‑script tool based on OpenSSL, providing RSA‑4096 encryption/decryption capabilities for both text and files, with a user‑friendly menu interface.
 
-**Read this in other languages: [Chinese](https://github.com/ttwe77/RSA4096-EncryptionDecryption-Tool/blob/main/README_ch)**
+**Read this in other languages: [Chinese](https://github.com/ttwe77/RSA4096-EncryptionDecryption-Tool/blob/main/README_ch.md)**
 
 ## Main Features
 
